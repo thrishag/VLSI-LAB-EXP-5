@@ -1,16 +1,20 @@
 # VLSI-LAB-EXP-5
+
+
+
 SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
 
 
-**AIM:**
+AIM:
 
  
  To simulate and synthesis finite state machine using Xilinx ISE.
 
 
 
-**APPARATUS REQUIRED: **
+
+APPARATUS REQUIRED: 
 
 
 
@@ -20,7 +24,7 @@ Spartan6 FPGA
 
 
 
-**PROCEDURE: **
+PROCEDURE:
 
 
 
